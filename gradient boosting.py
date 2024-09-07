@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Sep  5 19:31:25 2024
-
-@author: admin
-"""
-
 import numpy as np
 from sklearn.model_selection import train_test_split
 #from sklearn.metrics import mean_squared_error
